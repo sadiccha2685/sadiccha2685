@@ -5,7 +5,7 @@ Computer Science Engineering Student | Artificial Intelligence Machine Learning 
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3500&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Computer+Science+Student;Python+Developer;Machine+Learning+Enthusiast;Data+Science+Learner;Always+Learning+New+Things" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3500&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Computer+Science+Student;Machine+Learning+Enthusiast;Data+Science+Learner;Always+Learning+New+Things" />
 </p>
 
 ---
@@ -22,11 +22,25 @@ Computer Science Engineering Student | Artificial Intelligence Machine Learning 
 
 ## 💻 Tech Stack
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,java,cpp,c,html,css,javascript,mysql,mongodb,git,github,vscode&perline=6"/>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,java,c,cpp,html,css,javascript,mysql,mongodb,git,github,vscode,flask"/>
 </p>
 
 ---
+
+## 🛠 Skills
+
+✔ Problem Solving
+
+✔ Object-Oriented Programming
+
+✔ Machine Learning
+
+✔ Web Development
+
+✔ Database Management
+
+✔ Git & GitHub
 
 ## 🚀 Featured Projects
 
@@ -43,7 +57,31 @@ Python, Pandas, NumPy and Matplotlib notebooks for learning data science.
 Collection of Data Structures & Algorithms problems solved in C++.
 
 ---
+## 📚 Libraries & Frameworks
 
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=numpy,pandas,matplotlib,sklearn,flask"/>
+
+</p>
+
+---
+## 🏆 Achievements
+
+🥇 9+ CGPA
+
+💻 Solved DSA Problems
+
+🚀 Built ML Projects
+
+📖 Consistent Learner
+
+---
+## 📈 Contribution Graph
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sadiccha2685&theme=tokyo-night)](https://github.com/sadiccha2685)
+
+---
 ## 📈 GitHub Stats
 
 <<p align="center">
