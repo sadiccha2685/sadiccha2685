@@ -7,8 +7,9 @@ Computer Science Engineering Student | Machine Learning & Data Science Enthusias
 <p align="center">
   <a href="https://www.linkedin.com/in/sadiccha-patil-234a04330/">LinkedIn</a> •
   <a href="mailto:sadicchapatil2685@gmail.com">Email</a> •
-  <a href="#">Portfolio</a> •
-  <a href="#">Resume</a>
+  <a href="http://127.0.0.1:3000/c:/Users/Sadiccha%20Patil/OneDrive/Desktop/Portfolio.html">Portfolio</a> •
+  <a href="[![Resume](https://img.shields.io/badge/Resume-View-blue?style=for-the-badge)]("C:\Users\Sadiccha Patil\OneDrive\Desktop\IMP\Sadiccha Patil .pdf") ">Resume</a>
+  
 </p>
 
 ---
@@ -18,8 +19,6 @@ Computer Science Engineering Student | Machine Learning & Data Science Enthusias
 🔭 Currently building end-to-end Machine Learning and Data Science projects, and sharpening problem-solving through DSA.
 
 🤝 Open to collaborating on AI/ML applications, data science projects, and full-stack builds.
-
-🌱 Currently deepening my knowledge of Deep Learning (CNNs, Transformers) and advanced SQL.
 
 💬 Ask me about Python, Machine Learning, Data Science, SQL, or my Smart Insurance Claim Fraud Detection project.
 
@@ -39,12 +38,11 @@ Computer Science Engineering Student | Machine Learning & Data Science Enthusias
 Detects fraudulent insurance claims using a Random Forest classifier, served via a Flask API with MySQL as the backing store.
 - **Result:** Achieved **95 % accuracy **
 - **Stack:** Python, Scikit-Learn, Flask, MySQL, PHP
-- 🔗 [Repo](#) • 🌐 [Live Demo](#)
 
 ### 💰 Expense Tracker
 A web app for logging and analyzing daily expenses with category-wise breakdowns.
-- **Stack:** [Your actual stack]
-- 🔗 [Repo](#) • 🌐 [Live Demo](#)
+- **Stack:** HTML, CSS, JavaScript
+🔗 [Repo](https://github.com/sadiccha2685/expense-tracker)
 
 ### 📊 Data Science Practice
 Notebooks covering EDA, data cleaning, and visualization using Pandas, NumPy, and Matplotlib.
@@ -52,7 +50,7 @@ Notebooks covering EDA, data cleaning, and visualization using Pandas, NumPy, an
 
 ### 💻 DSA Solutions
 Curated Data Structures & Algorithms solutions in C++, organized by topic and difficulty.
-- 🔗 [Repo](#)
+-🔗 [Repo](https://github.com/sadiccha2685/leetcode)
 
 ---
 
