@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi 👋 I'm Sadiccha Patil
 
-<!--
-**sadiccha2685/sadiccha2685** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech CSE Student
 
-Here are some ideas to get you started:
+💻 C | C++ | Python | Java | Data Science | Machine Learning | Full Stack Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Currently Learning
+- Data Science
+- Machine Learning
+- DSA
+
+🚀 Projects
+- Smart Insurance Claim Fraud Detection
+- Expense Tracker
+
+📫 Reach me
+sadicchapatil2685@gmail.com
