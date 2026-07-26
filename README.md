@@ -8,7 +8,7 @@ Computer Science Engineering Student | Machine Learning & Data Science Enthusias
   <a href="https://www.linkedin.com/in/sadiccha-patil-234a04330/">LinkedIn</a> •
   <a href="mailto:sadicchapatil2685@gmail.com">Email</a> •
   <a href="http://127.0.0.1:3000/c:/Users/Sadiccha%20Patil/OneDrive/Desktop/Portfolio.html">Portfolio</a> •
-  <a href="file:///C:/Users/Sadiccha%20Patil/OneDrive/Desktop/IMP/Sadiccha%20Patil%20.pdf">Resume</a>
+  <a href="">Resume</a>
   
 </p>
 
