@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sadiccha Patil</h1>
 
 <h3 align="center">
-Computer Science Engineering Student | Data Science & Machine Learning Enthusiast
+Computer Science Engineering Student | Artificial Intelligence Machine Learning & Data Science Enthusiast
 </h3>
 
 <p align="center">
@@ -40,7 +40,7 @@ A project for managing daily expenses efficiently.
 Python, Pandas, NumPy and Matplotlib notebooks for learning data science.
 
 ### 💻 DSA Solutions
-Collection of Data Structures & Algorithms problems solved in Java and Python.
+Collection of Data Structures & Algorithms problems solved in C++.
 
 ---
 
