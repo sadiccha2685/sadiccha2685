@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sadiccha Patil</h1>
+<img width="584" height="170" alt="image" src="https://github.com/user-attachments/assets/7bb59760-ac4c-49df-a2de-3501671fb9c3" /><h1 align="center">Hi 👋, I'm Sadiccha Patil</h1>
 
 <h3 align="center">
 Computer Science Engineering Student | Machine Learning & Data Science Enthusiast
@@ -8,7 +8,7 @@ Computer Science Engineering Student | Machine Learning & Data Science Enthusias
   <a href="https://www.linkedin.com/in/sadiccha-patil-234a04330/">LinkedIn</a> •
   <a href="mailto:sadicchapatil2685@gmail.com">Email</a> •
   <a href="http://127.0.0.1:3000/c:/Users/Sadiccha%20Patil/OneDrive/Desktop/Portfolio.html">Portfolio</a> •
-  <a href="C:\Users\Sadiccha Patil\OneDrive\Desktop\IMP\Sadiccha Patil .pdf">Resume</a>
+  <a href="file:///C:/Users/Sadiccha%20Patil/OneDrive/Desktop/IMP/Sadiccha%20Patil%20.pdf">Resume</a>
   
 </p>
 
