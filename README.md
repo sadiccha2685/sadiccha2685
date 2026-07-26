@@ -1,4 +1,4 @@
-Hi 👋, I'm Sadiccha Patil</h1>
+<h1>Hi 👋, I'm Sadiccha Patil</h1>
 
 <h3 align="center">
 Computer Science Engineering Student | Machine Learning & Data Science Enthusiast
