@@ -1,4 +1,4 @@
-<img width="584" height="170" alt="image" src="https://github.com/user-attachments/assets/7bb59760-ac4c-49df-a2de-3501671fb9c3" /><h1 align="center">Hi 👋, I'm Sadiccha Patil</h1>
+Hi 👋, I'm Sadiccha Patil</h1>
 
 <h3 align="center">
 Computer Science Engineering Student | Machine Learning & Data Science Enthusiast
