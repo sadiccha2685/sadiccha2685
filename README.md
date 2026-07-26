@@ -31,8 +31,6 @@ I enjoy turning real-world problems into software solutions and I'm on a journey
 
 ## 💻 Tech Stack:
 
-## 💻 Tech Stack
-
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
