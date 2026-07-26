@@ -78,8 +78,8 @@ Collection of Data Structures & Algorithms problems solved in Java and Python.
 
 ## 📫 Connect with Me
 
-- LinkedIn *(Add your LinkedIn link)*
-- Email *(Add your email)*
+- LinkedIn *https://www.linkedin.com/in/sadiccha-patil-234a04330/*
+- Email *sadicchapatil2685@gmail.com*
 
 ---
 
