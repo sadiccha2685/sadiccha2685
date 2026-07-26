@@ -10,20 +10,29 @@ Computer Science Engineering Student | Artificial Intelligence Machine Learning 
 
 ---
 
-## 👩‍💻 About Me
+## 💫 About Me:
 
-- 🎓 B.Tech Computer Science Engineering Student
-- 🌱 Currently learning **Data Science, Machine Learning, Python and DSA**
-- 💻 Interested in **AI, ML, Data Analytics and Software Development**
-- 🚀 Building projects to strengthen my practical skills
-- 🎯 Goal: Secure a Software/Data Science role in a top company
+🔭 I'm currently working on  
+Building Machine Learning and Data Science projects while strengthening my problem-solving skills through Data Structures & Algorithms.
+
+🤝 I'm looking to collaborate on  
+Open-source projects, AI/ML applications, Data Science projects, and full-stack web development.
+
+🌱 I'm currently learning  
+Data Science, Machine Learning, Python, SQL, DSA, and Flask.
+
+💬 Ask me about  
+Python, Java, C++, Data Science, Machine Learning, SQL, GitHub, and my Smart Insurance Claim Fraud Detection project.
+
+⚡ Fun fact  
+I enjoy turning real-world problems into software solutions and I'm on a journey to become a skilled Data Scientist and Software Engineer.
 
 ---
 
-## 💻 Tech Stack
+## 💻 Tech Stack:
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,java,c,cpp,html,css,javascript,mysql,mongodb,git,github,vscode,flask"/>
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python,java,c,cpp,html,css,javascript,mysql,mongodb,git,github,vscode,flask,numpy,pandas,sklearn&perline=8"/>
 </p>
 
 ---
@@ -57,15 +66,6 @@ Python, Pandas, NumPy and Matplotlib notebooks for learning data science.
 Collection of Data Structures & Algorithms problems solved in C++.
 
 ---
-## 📚 Libraries & Frameworks
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=numpy,pandas,matplotlib,sklearn,flask"/>
-
-</p>
-
----
 ## 🏆 Achievements
 
 🥇 9+ CGPA
@@ -80,17 +80,6 @@ Collection of Data Structures & Algorithms problems solved in C++.
 ## 📈 Contribution Graph
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sadiccha2685&theme=tokyo-night)](https://github.com/sadiccha2685)
-
----
-## 📈 GitHub Stats
-
-<<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sadiccha2685&show_icons=true&theme=tokyonight&cache_seconds=1800" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sadiccha2685&layout=compact&theme=tokyonight" />
-</p>
 
 ---
 
@@ -111,6 +100,14 @@ Collection of Data Structures & Algorithms problems solved in C++.
 - Deep Learning
 - DSA
 - SQL
+
+---
+
+## 💻 Coding Profiles
+
+🔹 LeetCode - *https://leetcode.com/u/sadiccha_patil26/*
+
+🔹 HackerRank - *https://www.hackerrank.com/profile/sadicchapatil261*
 
 ---
 
