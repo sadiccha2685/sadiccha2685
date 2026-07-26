@@ -17,7 +17,7 @@ Computer Science Engineering Student | Machine Learning & Data Science Enthusias
 
 🔭 Currently building end-to-end Machine Learning and Data Science projects, and sharpening problem-solving through DSA.
 
-🤝 Open to collaborating on ML/AI applications, data science projects, and full-stack builds.
+🤝 Open to collaborating on AI/ML applications, data science projects, and full-stack builds.
 
 🌱 Currently deepening my knowledge of Deep Learning (CNNs, Transformers) and advanced SQL.
 
@@ -28,7 +28,7 @@ Computer Science Engineering Student | Machine Learning & Data Science Enthusias
 ## 📊 Stats & Proof of Work
 
 - 🎓 CGPA: **9+**
-- 🧩 LeetCode: **[XXX] problems solved** | Contest rating: **[XXX]** — [Profile](https://leetcode.com/u/sadiccha_patil26/)
+- 🧩 LeetCode: **40+ problems solved** [Profile](https://leetcode.com/u/sadiccha_patil26/)
 - 🏅 HackerRank: [Profile](https://www.hackerrank.com/profile/sadicchapatil261)
 - 🏆 Competitions: **Second Rank in National Level Project Presentation**
 ---
@@ -38,7 +38,7 @@ Computer Science Engineering Student | Machine Learning & Data Science Enthusias
 ### 🚗 Smart Insurance Claim Fraud Detection
 Detects fraudulent insurance claims using a Random Forest classifier, served via a Flask API with MySQL as the backing store.
 - **Result:** Achieved **95 % accuracy **
-- **Stack:** Python, Scikit-Learn, Flask, MySQL
+- **Stack:** Python, Scikit-Learn, Flask, MySQL, PHP
 - 🔗 [Repo](#) • 🌐 [Live Demo](#)
 
 ### 💰 Expense Tracker
@@ -54,8 +54,6 @@ Notebooks covering EDA, data cleaning, and visualization using Pandas, NumPy, an
 Curated Data Structures & Algorithms solutions in C++, organized by topic and difficulty.
 - 🔗 [Repo](#)
 
-> Add a short case-study README inside each project repo: problem → approach → result → screenshots/demo. That matters more than this summary.
-
 ---
 
 ## 💻 Tech Stack
@@ -67,8 +65,6 @@ Curated Data Structures & Algorithms solutions in C++, organized by topic and di
 **Backend/DB:** ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 **Tools:** ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-
-> Only keep badges for tech you can confidently discuss in an interview. Remove anything you haven't used in a real project.
 
 ---
 
