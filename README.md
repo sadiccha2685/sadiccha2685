@@ -8,6 +8,7 @@ Computer Science Engineering Student | Data Analytics, Machine Learning & Data S
   <a href="https://www.linkedin.com/in/sadiccha-patil-234a04330/">LinkedIn</a> •
   <a href="mailto:sadicchapatil2685@gmail.com">Email</a> •
   <a href="https://drive.google.com/file/d/1ocArbbVmBpNsxidVMPvAE55uvl-MiAGx/view?usp=drive_link">Resume</a>
+  <a href="http://127.0.0.1:3000/c:/Users/Sadiccha%20Patil/OneDrive/Desktop/Portfolio.html">Portfolio</a>
 </p>
 
 ---
@@ -18,7 +19,7 @@ Computer Science Engineering Student | Data Analytics, Machine Learning & Data S
 
 🤝 Open to collaborating on Data Analytics dashboards, Business Intelligence solutions, AI/ML applications, and full-stack builds.
 
-💬 Ask me about Power BI, DAX, Python, Machine Learning, Data Analytics, SQL, or my Customer Churn Prediction project.
+💬 Ask me about Power BI, DAX, Python, Machine Learning, Data Analytics, Data Science, SQL, or My Customer Churn Prediction project.
 
 ---
 
