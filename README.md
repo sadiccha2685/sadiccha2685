@@ -1,26 +1,24 @@
 <h1>Hi 👋, I'm Sadiccha Patil</h1>
 
 <h3 align="center">
-Computer Science Engineering Student | Machine Learning & Data Science Enthusiast
+Computer Science Engineering Student | Data Analytics, Machine Learning & Data Science Enthusiast
 </h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sadiccha-patil-234a04330/">LinkedIn</a> •
   <a href="mailto:sadicchapatil2685@gmail.com">Email</a> •
-  <a href="http://127.0.0.1:3000/c:/Users/Sadiccha%20Patil/OneDrive/Desktop/Portfolio.html">Portfolio</a> •
   <a href="https://drive.google.com/file/d/1ocArbbVmBpNsxidVMPvAE55uvl-MiAGx/view?usp=drive_link">Resume</a>
-  
 </p>
 
 ---
 
 ## 💫 About Me
 
-🔭 Currently building end-to-end Machine Learning and Data Science projects, and sharpening problem-solving through DSA.
+🔭 Currently building end-to-end Data Analytics, Machine Learning, and Data Science projects, while sharpening problem-solving through DSA.
 
-🤝 Open to collaborating on AI/ML applications, data science projects, and full-stack builds.
+🤝 Open to collaborating on Data Analytics dashboards, Business Intelligence solutions, AI/ML applications, and full-stack builds.
 
-💬 Ask me about Python, Machine Learning, Data Science, SQL, or my Smart Insurance Claim Fraud Detection project.
+💬 Ask me about Power BI, DAX, Python, Machine Learning, Data Analytics, SQL, or my Customer Churn Prediction project.
 
 ---
 
@@ -30,35 +28,46 @@ Computer Science Engineering Student | Machine Learning & Data Science Enthusias
 - 🧩 LeetCode: **70+ problems solved** [Profile](https://leetcode.com/u/sadiccha_patil26/)
 - 🏅 HackerRank: [Profile](https://www.hackerrank.com/profile/sadicchapatil261)
 - 🏆 Competitions: **Second Rank in National Level Project Presentation**
+
 ---
 
 ## 🚀 Featured Projects
 
+### 📊 FinSight: Financial Analysis & Transaction Insights Dashboard
+Interactive Power BI dashboard tracking real-time financial KPIs, transaction distributions (₹135.62M volume), fee dynamics, and geographical performance[cite: 4].
+- **Key Features:** Dynamic metric switching, DAX-calculated KPIs, customer segment profiling, and granular transaction ledgers[cite: 4].
+- **Stack:** Power BI, DAX, Power Query, Data Modeling[cite: 4]
+- 🔗 [Repo](https://github.com/sadiccha2685/finsight-finance-analysis-powerbi)
+
+### 🔮 Customer Churn Prediction
+End-to-end Data Science project predicting customer attrition to help businesses proactively retain high-value users.
+- **Key Features:** Exploratory Data Analysis (EDA), feature engineering, handling class imbalance, and model evaluation using classification metrics.
+- **Stack:** Python, Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn
+- 🔗 [Repo](https://github.com/sadiccha2685/customer-churn-prediction)
+
 ### 🚗 Smart Insurance Claim Fraud Detection
 Detects fraudulent insurance claims using a Random Forest classifier, served via a Flask API with MySQL as the backing store.
-- **Result:** Achieved **95 % accuracy **
+- **Result:** Achieved **95% accuracy**
 - **Stack:** Python, Scikit-Learn, Flask, MySQL, PHP
 
 ### 💰 Expense Tracker
 A web app for logging and analyzing daily expenses with category-wise breakdowns.
 - **Stack:** HTML, CSS, JavaScript
-🔗 [Repo](https://github.com/sadiccha2685/expense-tracker)
-
-### 📊 Data Science Practice
-Notebooks covering EDA, data cleaning, and visualization using Pandas, NumPy, and Matplotlib.
-- 🔗 [Repo](#)
+- 🔗 [Repo](https://github.com/sadiccha2685/expense-tracker)
 
 ### 💻 DSA Solutions
 Curated Data Structures & Algorithms solutions in C++, organized by topic and difficulty.
--🔗 [Repo](https://github.com/sadiccha2685/leetcode)
+- 🔗 [Repo](https://github.com/sadiccha2685/leetcode)
 
 ---
 
 ## 💻 Tech Stack
 
-**Languages:** ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+**Languages:** ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
-**ML/Data:** ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white)
+**Data Analytics & BI:** ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![DAX](https://img.shields.io/badge/DAX-F2C811?style=for-the-badge&logo=microsoft&logoColor=black) ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white) ![Power Query](https://img.shields.io/badge/Power_Query-217346?style=for-the-badge&logo=microsoft&logoColor=white)
+
+**ML/Data Science:** ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white)
 
 **Backend/DB:** ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
