@@ -27,7 +27,7 @@ Computer Science Engineering Student | Machine Learning & Data Science Enthusias
 ## 📊 Stats & Proof of Work
 
 - 🎓 CGPA: **9+**
-- 🧩 LeetCode: **40+ problems solved** [Profile](https://leetcode.com/u/sadiccha_patil26/)
+- 🧩 LeetCode: **70+ problems solved** [Profile](https://leetcode.com/u/sadiccha_patil26/)
 - 🏅 HackerRank: [Profile](https://www.hackerrank.com/profile/sadicchapatil261)
 - 🏆 Competitions: **Second Rank in National Level Project Presentation**
 ---
